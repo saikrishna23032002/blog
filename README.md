@@ -1,1 +1,1 @@
-this is practice for what i lernt from yesterday
+this is practice for what i lernt from yesterday of git and schoffard generator
